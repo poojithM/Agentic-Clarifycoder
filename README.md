@@ -5,12 +5,12 @@ Agentic ClarifyCoder is a Python-based workflow designed to generate reliable, p
 
 ## Features
 - **Uncertainty Detection**: ClarifyCoder identifies ambiguous user prompts and asks concise clarification questions.
-- **Two-Agent Workflow**: Two agents collaborate to ensure accurate code generation:
+- **Two Agent Workflow**: Two agents collaborate to ensure accurate code generation:
   - **Agent 1**: Interprets the problem and poses clarification questions if needed.
   - **Agent 2**: Generates complete, executable Python code based on the user question and user requirements.
 - **Okanagan-Inspired Strategy**: Ensures code is generated only when requirements are clear, enhancing reliability and reducing errors.
 - **Interactive Clarification**: Prompts users for answers to clarification questions, ensuring the final code aligns with their needs.
-- **Production-Ready Output**: Delivers clean, executable Python code with example usage and proper edge-case handling.
+- **Production Ready Output**: Delivers clean, executable Python code with example usage and proper edge-case handling.
 
 ## Prerequisites
 - **Python**: Version 3.8 or higher
